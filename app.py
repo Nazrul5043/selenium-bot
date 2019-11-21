@@ -3,8 +3,6 @@
 Author: Nazrul Islam
 Email: mdnazrul5043@gmail.com
 Mobile: +880 1818685043
-Facebook: https://www.facebook.com/nzrl.5043
-Linkedin: https://www.linkedin.com/in/nazrul5043
 """
 import platform
 import os
