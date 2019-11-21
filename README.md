@@ -1,3 +1,3 @@
-# selenium-bot
-A simple facebook bot written by python selenium
+#Facebook Messenger Bot
+A simple facebook messanger bot written by python selenium
 
