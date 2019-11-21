@@ -1,3 +1,3 @@
 # selenium-bot
-#A simple bot written by python selenium
+A simple facebook bot written by python selenium
 
